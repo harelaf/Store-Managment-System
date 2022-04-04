@@ -32,8 +32,8 @@ Follow these steps to run the system:
 
 - Ahmed Massalha
 
-- Luee
+- Luee Akasha
 
 - OrabyM
 
-- _
+- Adelwa
