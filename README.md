@@ -3,7 +3,7 @@
 This Store management system lets permitted users access their respective functionality.
 All of the stores modules work together to create a fully functional Store Management System.
 
-## Project Explanation
+## About The Project
 
 This project uses a 3-tier architecture and is written in Java. There are 4 main modules: Store, Employee, Supplier and Shipment.
 8 people worked on this project (2 for each module).
